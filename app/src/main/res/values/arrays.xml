@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="words">
+        <item>ADAM GILCHRIST </item>
+        <item>CHRIS GAYLE</item>
+        <item>STEVE WAUGH</item>
+        <item>RAHUL DRAVID</item>
+        <item>SHAUN POLLOCK</item>
+        <item>JAVED MIADAD</item>
+        <item>GLENN MCGRATH</item>
+        <item>SANATH JAYSURIYA</item>
+        <item>RICKY PONTING</item>
+        <item>BRIAN LARA</item>
+        <item>WASIM AKRAM</item>
+        <item>SHANE WARNE</item>
+        <item>MUTTIAH MURALITHARAN</item>
+        <item>JACQUES KALLIS</item>
+        <item>DENNIS LILLEE</item>
+        <item>IAN BOTHAM</item>
+        <item>IMRAN KHAN</item>
+        <item>KAPIL DEV</item>
+        <item>VIVIANS RICHARD</item>
+        <item>GARFIELD SOBERS</item>
+        <item>SACHIN TENDULKAR</item>
+        <item>JOE ROOT</item>
+        <item>RASHID KHAN</item>
+        <item>BEN STOKES</item>
+        <item>KAGISO RABADA</item>
+        <item>MITCHELL STARC</item>
+        <item>MOEEN ALI</item>
+        <item>ALEX HALES</item>
+        <item>MARTIN GUPTILL</item>
+        <item>MOHAMMAD NABI</item>
+    </string-array>
+</resources>
