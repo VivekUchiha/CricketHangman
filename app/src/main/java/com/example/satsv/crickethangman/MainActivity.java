@@ -52,7 +52,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 b1.setVisibility(View.INVISIBLE);
                 b.setVisibility(View.VISIBLE);
-                et.setText("Enter Letter");
+                et.setHint("Enter Letter");
+                et.setText("");
                 for(int k=1;k<=5;k++)
                     imag[k].setVisibility(View.INVISIBLE);
                 imag[6].setVisibility(View.GONE);
@@ -124,8 +125,11 @@ public class MainActivity extends AppCompatActivity {
                 int flag = 0,f=0;
                 char x;
                 String a = et.getText().toString();
-                if (a.length() > 1)
-                    et.setText("Enter Single Letter");
+                et.setText("");
+                if (a.length()==0);
+
+                else if (a.length() > 1)
+                    et.setHint("Enter Single Letter");
                 else {
                     x = a.charAt(0);
                     x = Character.toUpperCase(x);
